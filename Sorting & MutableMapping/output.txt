@@ -1,0 +1,19 @@
+All Flights in the Database:
+ATL to MIA on 08May at 08:00
+JFK to LAX on 06May at 12:00
+LAX to SFO on 09May at 14:45
+ORD to PVD on 05May at 09:30
+ORD to PVD on 05May at 15:00
+SFO to LAS on 07May at 10:30
+
+Checking seat availability for UA789 on 09May at 14:45 (First Class):
+Available seats: 12
+
+Booking a seat for UA789 on 09May at 14:45 (Coach Class):
+Booking successful.
+
+Cancelling a booking for UA789 on 09May at 14:45 (First Class):
+Cancellation successful.
+
+Calculating flight duration for UA789 on 09May at 14:45:
+Flight duration: 1:30:00
